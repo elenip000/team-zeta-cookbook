@@ -1,5 +1,5 @@
 recipes = [
-    # Add your name and recipe here
+    "Georgios_Chazaridis - Kokkinisto me Laxano"
 ]
 
 print("Welcome to the Team Cookbook!")

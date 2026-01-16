@@ -1,5 +1,6 @@
 recipes = [
     "Georgios_Chazaridis - Kokkinisto me Laxano"
+    "Constantinos_Chamorousios - Makaronia me Kima"
 ]
 
 print("Welcome to the Team Cookbook!")
